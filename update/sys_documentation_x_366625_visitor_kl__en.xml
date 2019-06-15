@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="kl" language="en" table="x_366625_visitor_kl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>kl</label>
+            <language>en</language>
+            <name>x_366625_visitor_kl</name>
+            <plural>kls</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 16:04:34</sys_created_on>
+            <sys_id>e04a1464db063300a7aef53a299619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>kl</sys_name>
+            <sys_package display_value="visitor" source="x_366625_visitor">1ae6d060db063300a7aef53a29961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor">1ae6d060db063300a7aef53a29961968</sys_scope>
+            <sys_update_name>sys_documentation_x_366625_visitor_kl__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 16:04:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
